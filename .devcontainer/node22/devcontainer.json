@@ -5,9 +5,6 @@
   // Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
   "image": "mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm",
 
-  "remoteUser": "codespace",
-  "containerUser": "codespace",
-
   "forwardPorts": [1234],
 
   "customizations": {
