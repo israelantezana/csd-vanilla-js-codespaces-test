@@ -7,6 +7,8 @@
 
   "forwardPorts": [1234],
 
+  "postCreateCommand": "npm install",
+
   "customizations": {
     // Configure properties specific to VS Code.
     "vscode": {
